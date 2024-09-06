@@ -58,9 +58,6 @@ if __name__ == "__main__":
         batch_pred = tabpfn.predict(X_test.iloc[start : start + batch_size].values)
         predictions.append(batch_pred)
 
-        if start == 1:
-            break
-
     # Forward pass of the transformer model in the cloud.
     y_pred_test = np.concatenate(predictions)
     y_pred_test_w_id.loc[:, comp_info.label] = y_pred_test

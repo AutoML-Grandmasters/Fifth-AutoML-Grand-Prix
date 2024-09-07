@@ -2,7 +2,7 @@
 # [Team AutoML Grandmasters] Fifth AutoML Grand Prix Competition Write-Up
 
 
-See [here](TODO) for the detailed post-competition write-up.
+See [here](https://www.kaggle.com/competitions/playground-series-s4e9/discussion/532635) for the detailed post-competition write-up.
 
 This repository additionally provides the used code to run AutoGluon with the same settings as we did (`run_autogluon.py`) and to run TabPFNV2 (`run_tabpfn_v2.py`), the required requirements (`requirements.txt`), and
 an additional overview picture (`overview.jpg`).
@@ -28,7 +28,7 @@ To reproduce (not replicate as this is essentially impossible given different ha
 ## Detailed Methodology
 <!--- A detailed description of methodology. Expand and explain your contributions in more detail. The explanations must be self-contained and one must be able to reproduce the approach by reading this section. You can explain and justify the approach by any means, e.g. citations, equations, tables, algorithms, platforms and code libraries utilized, etc. A detailed explanation of the architecture, preprocessing, loss function, training details, hyper-parameters, etc. is expected.
 -->
-See [here](TODO) for more details.
+See [here](https://www.kaggle.com/competitions/playground-series-s4e9/discussion/532635) for more details.
 
 ## Workflow Diagram
 <!--- A representative image / workflow diagram of the method to support additional description. -->
